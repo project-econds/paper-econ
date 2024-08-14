@@ -1,0 +1,102 @@
+---
+title: "Writing the introduction for an economics article"
+format: pdf
+editor: visual
+---
+
+## Why is the Introduction Special - And How to Write It?
+
+The introduction is the most critical part of an economics paper. It sets the foundation for the entire work, clearly define the research question, demonstrate its significance, and succinctly present the paper's contributions. Most importantly, it communicates the core purpose of the paper, persuading the reader why it's worth their time to read on.
+
+**Fundamental Structure:**
+
+The fundamental structure for writing introductions in well-written economics papers usually involves three steps:
+
+-   Identify a gap in the literature.
+-   Explain why this gap is significant.
+-   Present this paper as a solution.
+
+**Key Principles:**
+
+-   Clarity and Brevity: Keep your introduction concise. Aim for one to two single-spaced pages that encapsulate the essence of your research without overloading the reader.
+-   Engagement: Your introduction should captivate a broad range of economists, making them interested in the rest of your paper.
+-   **Focus on Contribution**: Clearly highlight the **primary** contribution of your paper, avoiding the temptation to overstate multiple contributions as this can create confusion about where your paper's true value lies and which field it primarily contributes to.
+
+**Work constantly on your introduction:**
+
+As discussed in [this blog post](https://blogs.ubc.ca/khead/research/research-advice/formula), it’s crucial to dedicate a substantial amount of time to writing and revising your introduction. A great approach is to write your introduction first when you begin drafting your paper, a strategy also recommended by [Jesse Shapiro](https://scholar.harvard.edu/files/shapiro/files/foursteps.pdf). Then, each time you work on other sections of the paper, revisit and refine your introduction. This way, by the time you finish, the introduction will have received more attention than any other part of the paper. The introduction is not only important for creating a strong first impression that might influence the referee’s opinion (although it likely will); it’s also essential for ensuring that you clearly understand your own research objectives.
+
+## Suggested Structure of the Introduction
+
+My two cents on how to structure the introduction of your applied micro paper:
+
+**Paragraph 1: Motivation and Research Gap**
+
+Start with a compelling motivation. This should be broad enough to resonate with a wide audience of economists, yet specific enough to highlight a clear gap in the existing literature. It’s essential to articulate why this gap matters, i.e. this could be an unresolved theoretical question, a pressing policy issue, or a previously untested empirical relationship.
+
+**Paragraph 2: Research Question and Approach**
+
+After outlining the motivation, clearly articulate your research question, followed by a concise summary of your approach to addressing it. It's important to highlight why this question remains unanswered, pointing out the key challenges that must be overcome. Strive for a balance: offer enough detail for the reader to grasp your methods and data, but avoid technical specifics. The aim is to keep the focus on the big picture while providing insight into how you intend to bridge the research gap - ideally, all within a single paragraph.
+
+**Paragraph 3: Key Findings and Contributions**
+
+Succinctly summarize what the paper achieves and the methods used to do so, i.e. present your main findings, emphasizing their significance in the context of the motivation you’ve established. Rather than merely listing results, explain how they contribute to the literature and why they are important. This is where you make it clear what your paper adds to the field, and why your findings matter. Does your results challenge conventional wisdom? Fill a critical void in the literature? Or offer new policy implications? Now is the time to highlight these results!
+
+**Paragraph 4: Brief description of background information, identification strategy and data**
+
+In this paragraph you should provide a **concise** overview of the key background information or institutional details. Outline your data sources and describe how you measure the core concepts of your study. Additionally, explain your identification strategy and how it leverages your data to address the challenges mentioned in paragraph two. Avoid discussing the details of your identification strategy in paragraph two. Allow the reader to first grasp the main findings before introducing additional details (which you should present in this paragraph).
+
+**Paragraph 5-X: Extensions and Robustness (Optional)**
+
+If your paper includes extensions, heterogeneity analyses, or robustness checks, consider introducing them briefly after the main findings. However, only do this if they are central to understanding the scope and implications of your research. Otherwise, they can be detailed in the body of the paper. The introduction should remain focused and concise.
+
+**Paragraphs X+2 Literature contributions**
+
+Limit this section to two paragraphs, focusing on the most relevant literature. Instead of a separate "literature review" section, highlight the 2-3 key papers that are most closely related to your work. In each paragraph, emphasize one primary way your paper contributes to the literature, clearly explaining how it differs from the most recent and relevant studies.
+
+**Last Paragraph: Roadmap (Optional)**
+
+Finally, consider including a brief roadmap of the paper’s structure. A roadmap helps orient the reader, making it easier to follow your arguments as they unfold. However, if your paper’s structure is straightforward, this can be optional.
+
+## What You Should Avoid When Writing Your Introduction
+
+1.  **Delaying the Core Message**: Don't wait too long to explain what your paper does. Clearly state your main contribution early, ideally by the second paragraph.
+
+2.  **Overloading with Citations Early On**: Avoid cluttering the first few paragraphs with too many citations. This can make the introduction harder to read and may suggest that the topic is already well-covered, diminishing the perceived novelty of your work.
+
+3.  **Failing to Identify the Knowledge Gap**: Clearly articulate the gap in the literature that your paper addresses. Make sure the reader understands why this gap exists and why it is important to fill it.
+
+4.  **Posing a Strawman Research Question**: Ensure your research question is meaningful and not easily dismissed. If the answer seems obvious, rephrase the question or provide context that shows why the answer isn’t straightforward.
+
+5.  **Unclear Contribution Statements**: When discussing your contributions, don’t just compare your work to others. Clearly explain why your approach or findings are significant.
+
+6.  **Overemphasizing Previous Research**: Don’t spend too much time summarizing what other papers have done. Instead, focus on how your work differs and what it adds to the literature.
+
+7.  **Overloading on Technique Citations**: While it’s important to acknowledge the methods you use, avoid listing too many papers that have employed similar techniques. This can detract from the perceived novelty of your approach.
+
+8.  **Citing Without Context**: When referencing other studies in your contribution paragraphs, make sure to explain how they relate to your work. Avoid making your research seem lost in a crowded field.
+
+9.  **Criticizing Previous Literature**: Rather than highlighting the shortcomings of past research, focus on the strengths of your paper. Frame your work as building on or complementing previous studies.
+
+10. **Presenting Results Without Context**: Don’t just list your findings. Explain their significance and what they imply for the broader understanding or policy implications of the topic.
+
+11. **Including Unnecessary or Missing Details**: Strike the right balance in the level of detail in your introduction. Provide enough information to make your approach and findings clear, but avoid overwhelming the reader with technical specifics or irrelevant details.
+
+12. **Overusing Footnotes**: Keep footnotes to a minimum, especially in the introduction. Footnotes can disrupt the flow of reading, so only include them if absolutely necessary.
+
+13. **Discussing Irrelevant Topics**: Ensure that everything in your introduction is directly related to your research question. Avoid digressions that do not contribute to the main focus of your paper.
+
+14. **Using Passive or Impersonal Language**: Avoid excessive use of passive voice or third-person language. Using first-person language ("I" or "We") can make your writing more direct and impactful.
+
+## Examples of Good Introductions
+
+Amy Finkelstein. 2009.: "E-ztax: Tax Salience and Tax Rates." The Quarterly Journal of Economics, 124 (3): 969–1010. https://doi.org/10.1162/qjec.2009.124.3.969
+
+Finkelstein, Amy, Petra Persson, Maria Polyakova, and Jesse M. Shapiro. 2022. "A Taste of Their Own Medicine: Guideline Adherence and Access to Expertise." American Economic Review: Insights, 4 (4): 507–26. https://doi.org/10.1257/aeri.20210591
+
+## Further Readings
+
+-   [Jesse Shapiro: Four Steps to an Applied Micro Paper](https://scholar.harvard.edu/files/shapiro/files/foursteps.pdf)
+-   [Don Cox: The "Big 5" and Other Ideas](https://econ.lse.ac.uk/staff/spischke/phds/The%20Big%205.pdf)
+-   [Keath Heid: The Introduction Formula](https://blogs.ubc.ca/khead/research/research-advice/formula)
+-   [Thriving in Economics: PhD Student Edition](https://ai4good.org/product/thriving-econ-phd/)
