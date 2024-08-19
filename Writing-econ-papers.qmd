@@ -1,0 +1,158 @@
+---
+title: "Writing an empirical economics article"
+subtitle: "Possibly with a reproduction section"
+date: today
+date-format: long
+format:
+  pdf:
+    include-in-header:
+      - text: |
+          \usepackage{quoting}
+---
+
+## General advice on how to write your first economics paper
+
+**Learn from others:** Take some well-written economics papers and use them as a blueprint for your paper. It is good to mimic (not plagiarise) well-written papers and emulate what the authors did, especially for your first paper.
+
+Carefully read and mimic how:
+
+- The author describes sample statistics
+- The author describes the results of a regression table
+- The author begins each section, especially the "results" section
+- The author structures the introduction or the conclusion
+
+The papers of [David Card](https://davidcard.berkeley.edu/papers.html), [Amy Finkelstein](https://economics.mit.edu/research/publications) or [Raj Chetty](https://rajchetty.com/publications/) (to name but a few) are not just well written; they are also inspiring. Studying their work can give you a sense of motivation and a high standard to aim for in your writing.
+
+**Some more advice:**
+
+When writing your economics paper, it's crucial to maintain a clear and focused approach. One way to do this is by concentrating on one specific research question and striving to answer it effectively.
+
+## When to start writing?
+
+\begin{quoting}[indentfirst=true]
+"Writing is thinking. To write well is to think clearly. That's why it's so hard." \\
+\hspace*{\fill}David McCullough\quad
+\end{quoting}
+
+Writing is challenging, so start as early as possible - ideally yesterday, last year, or even last decade. Here are some practical tips:
+
+- Write something every day.
+- A page a day helps improve your writing.
+- Read to enhance your writing skills.
+- Think in English as you work.
+
+Remember, research and writing are always intertwined. Start writing from day 1.
+
+## How to structure your empirical economics paper?
+
+### Typical structure of an empirical economics paper
+
+The usual empirical economics paper has the following structure:
+
+1. Title
+2. Abstract
+3. Introduction
+4. Theoretical Framework
+5. Data and Descriptive Statistics
+6. Empirical Framework
+7. Results and Discussion
+8. Summary and Concluding Remarks
+9. References
+10. Appendix
+
+If you examine a well-studied question or there are some theory papers discussing the theoretical background of your question, you might not need the "Theoretical Framework" section. 
+
+If the (institutional) background is crucial for understanding your research, then the 'Background' section is more than just an option-it's a necessity. It provides the necessary context and sets the stage for your paper.
+
+The parts that an interested reader most often reads are the Title, Abstract, Introduction, Methods and Results, and the Conclusion (in that order). Put most effort into writing these sections. Above all: Write and rewrite the abstract and introduction many times and try to make your contribution as clear as possible!
+
+### A more detailed structure with a focus on including replication studies
+
+When writing an empirical paper, the focus is on precision, clarity, and making a distinct contribution to the literature. Replicating previous results is an important step in building credibility and establishing a baseline for your analysis. 
+
+1. **Introduction**
+   - **Motivation and Research Question**: Start with a brief statement of the research question, rooted in a broader economic problem or debate. Explain why this question is important, how it fits into the existing literature, and why replication is necessary.
+   - **Main Contribution**: Clearly articulate the main contribution of your paper. If you're replicating previous results, state this upfront, but quickly pivot to how your paper goes beyond replication—whether through new data, a novel method, or a different context.
+   - **Outline of the Paper**: Provide a roadmap for the reader, highlighting where the replication fits in and how it sets the stage for your original contributions.
+   - Have a look at the separate file [Writing-econ-papers_the-introduction](https://github.com/project-econds/paper-econ/blob/main/Writing-econ-papers_the-introduction.pdf) for a more thorough explanation of the introduction for an empirical economics paper
+
+2. **Theoretical Framework (if applicable)**
+   - **Model Setup**: Briefly introduce any theoretical model that guides the empirical analysis. This section is optional, and you should only include it if the theory is critical to understanding your empirical strategy and results.
+   - **Testable Hypotheses**: Specify the testable hypotheses derived from the theory, particularly those you will explore in the replication and your original analysis.
+
+3. **Replication of Previous Results**
+   - **Purpose of Replication**: Begin briefly explaining why replication is necessary. This could involve validating the original study's findings, testing the robustness of these results under different conditions, or setting a baseline for your analysis.
+   - **Data and Methods**: Describe the data and methods used in the original study, making it clear that you've adhered as closely as possible to the original procedures. If there are any deviations (due to data availability or other reasons), note these and justify them.
+   - **Results**: Present the replicated results, typically in a table or graph that compares your findings with those of the original study. Discuss any discrepancies and their potential causes.
+   - **Space Allocation**: The replication section should be concise. It's crucial to provide enough detail to convince the reader of the robustness of the original results, but not so much that it overshadows your contributions. Aim to limit this section to a few pages (1-2), depending on the original analysis's complexity and the replication's importance to your paper.
+   - **Transition**: Use the end of this section to transition smoothly into your original analysis. Highlight how the replication informs or supports the next steps in your research.
+
+4. **Data**
+   - **Data Description**: Provide a detailed description of the new data you're using, including how it differs from the data used in the replicated study, if applicable. Focus on the relevance and strengths of your dataset when addressing the research question.
+   - **Key Variables**: Discuss the construction of your key variables, particularly if they differ from those in the replicated study. Emphasize any improvements or innovations in your approach.
+
+5. **Empirical Strategy**
+   - **Estimation Method**: Describe the econometric models you will use, ensuring that the methods build logically from the replication. If you are extending the analysis, explain how your methods improve upon or diverge from the original approach.
+   - **Identification Strategy**: Clearly articulate how you identify causal relationships, especially if this differs from the original study. Address any potential biases, including those uncovered during the replication process.
+
+6. **Results**
+   - **Main Results**: Present the results of your original analysis, focusing on the key findings. This section should highlight how your results contribute to the literature and extend the replication.
+   - **Interpretation**: Discuss the implications of your findings in relation to the research question and the broader literature. Where relevant, compare your results with those from the replication to highlight the value-added of your work.
+   - **Robustness Checks**: Include robustness checks that test the sensitivity of your findings to different specifications, datasets, or assumptions. These should go beyond what was done in the replication to validate your contributions further.
+
+7. **Extensions (Optional)**
+   - **Exploration of Heterogeneity**: If relevant, analyze how your results vary across different subgroups or contexts. This section allows you to explore the broader applicability of your findings.
+   - **Mechanisms and Additional Tests**: Investigate the underlying mechanisms that drive your results, using additional empirical tests to deepen the analysis.
+
+8. **Conclusion**
+   - **Summary of Findings**: Summarize the main findings, emphasizing the replication and your original contributions.
+   - **Contribution to the Literature**: Restate how your paper advances the field, particularly in light of the replication. This is where you can argue for the robustness of your findings and their implications.
+   - **Policy Implications**: If applicable, discuss any policy implications of your results, grounding them in the empirical evidence presented.
+   - **Final Remarks**: Conclude with any thoughts on future research or unresolved questions that your study raises.
+
+9. **References**
+   - **Citations**: Include a comprehensive list of references, ensuring that all sources, including those related to the replicated study, are properly cited.
+
+10. **Appendices (if needed)**
+   - **Supplementary Material**: Include additional tables, figures, or robustness checks that are too detailed for the main text but important for the completeness of your analysis.
+   - **Detailed Replication Results**: If your replication involves extensive analyses, you can provide detailed results or additional robustness checks in the appendix.
+
+**Notes on Replication:**
+
+- **Purpose of Replication**: The replication is a foundation for your contributions. It demonstrates rigor and ensures your paper is built on solid empirical ground. This section is critical if you're building directly on the methodology or data of a previous study.
+- **Space Allocation**: Replication should be thorough but concise. It typically occupies a brief section of the paper, enough to convince readers that the original results are sound and that your analysis is justified. The bulk of the paper should focus on your original contributions.
+- **Integration with Original Work**: The replication should not stand alone; it should be clearly linked to your original work. Use the replication as a stepping stone to introduce your innovations, data, or methods.
+
+This structure emphasizes making a distinct contribution while ensuring your work is grounded in robust empirical methods, including the critical replication step. The replication process is essential but should not overshadow your main contributions—it should support and validate the novel aspects of your research.
+
+### How could you present your results in comparison to the original study
+
+One possibility could be to use graphics as in this [Paper](https://www.science.org/doi/abs/10.1126/science.aaf0918)
+
+### What you should not do
+
+- Do not include tables that range over multiple pages
+- Do not describe every single regression coefficient in your main text
+- Do not use sloppy language
+- Do not write up your paper in the order you discovered the results!
+
+### What you should do instead
+
+- Make your tables and figures concise and readable / easily understandable
+- **Make tables and figures self-contained**, i.e. understandable without reading the whole paper
+    - Readers often "skim" your paper, especially figures and tables. You make reading your paper much easier (and possibly get more citations) when your tables and graphs are self-contained.
+- Stick to your variable of interest. Control variables should not be interpreted (consider hiding them in a "control variables included" row).
+- Write the paper such that it is most logical for the reader
+
+
+## References with general writing tips
+
+- [Writing Tips for Economics Research Papers](http://home.bi.no/charlotte.ostergaard/students/writingtips.pdf)
+
+- [Economical Writing](http://home.bi.no/charlotte.ostergaard/students/Article_86.pdf) never gets old! This piece is about the whole paper, not about the introduction specifically. At least skim through it!
+
+- [How to Write Applied Papers in Economics](http://marcfbellemare.com/wordpress/wp-content/uploads/2020/09/BellemareHowToPaperSeptember2020.pdf)
+
+- [Coding for Economists (with a very good section on how to write papers)](https://aeturrell.github.io/coding-for-economists/craft-writing-papers.html)
+
+- [Very good advice by an anonymous referee](https://x.com/rskudesia/status/1120324415424585728?s=20), [Here is the article this Tweet is referring to](https://onlinelibrary.wiley.com/doi/full/10.1111/joms.12280)
